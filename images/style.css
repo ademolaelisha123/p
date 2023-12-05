@@ -1,0 +1,1354 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+@media screen and (max-width:493px) {
+  body {
+    width: 360px;
+    overflow-x: hidden;
+  }
+}
+
+body {
+  overflow-x: hidden;
+}
+
+a {
+    text-decoration: none;
+    color: none;
+}
+
+#head {
+    background-color: #f7f6f4;
+    width: 100%;
+    height: 100px;
+}
+
+.asa {
+    margin-left: 20px;
+    margin-top: 40px;
+    position: absolute;
+}
+
+@media screen and (max-width:493px) {
+  .asa {
+    font-size: 15px;
+    margin-left: 17px;
+    display: none;
+  }
+}
+
+.saa {
+    margin-left: 170px;
+    margin-top: 40px;
+    position: absolute;
+}
+
+@media screen and (max-width:493px) {
+  .saa {
+    font-size: 12px;
+    margin-left: 115px;
+    display: none;
+  }
+}
+
+
+
+.err {
+    position: absolute;
+    margin-left: 320px;
+    margin-top: 40px;
+}
+
+@media screen and (max-width:493px) {
+  .err {
+    font-size: 15px;
+    margin-left: 190px;
+    display: none;
+  }
+}
+.ree {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 700px;
+}
+
+@media screen and (max-width:493px) {
+  .ree {
+    font-size: 15px;
+    margin-left: 250px;
+    display: none;
+  }
+}
+
+.das {
+    position: absolute;
+    margin-top: 40px;
+    margin-left: 778px;
+    color: blue;
+}
+
+@media screen and (max-width:493px)  {
+  .das {
+    margin-left: 10px;
+    font-size: 15px;
+    margin-top: 20px;
+    color: blue;
+  }
+}
+
+.ima {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 990px;
+}
+
+
+@media screen and (max-width:493px) {
+  .ima {
+    margin-top: 10px;
+    margin-left: 180px;
+  }
+}
+
+.fish {
+    margin-top: 40px;
+    margin-left: 1050px;
+    border-radius: 50px;
+}
+
+.wewe {
+    margin-top: 40px;
+    margin-left: 1050px;
+    position: absolute;
+    opacity: 0.7px;
+}
+
+@media screen and (max-width:493px) {
+  .wewe {
+    margin-top: 15px;
+    margin-left: 250px;
+    position: absolute;
+  }
+}
+
+.sss {
+    position: relative;
+    margin-top: 30px;
+    width: 90px;
+    height: 30px;
+    margin-left: 1040px;
+    border-radius: 50px;
+    opacity: 0.5;
+}
+
+@media screen and (max-width:493px) {
+  .sss {
+    margin-left: 240px;
+    margin-top: 10px;
+    position: relative;
+    opacity: 0.5;
+  }
+
+
+}
+.gideon {
+  margin-left: 1070px;
+  position: absolute;
+  margin-top: -25px;
+}
+
+@media screen and (max-width:493px) {
+  .gideon {
+    margin-left: 270px;
+    margin-top: -20px;
+    position: absolute;
+  }
+}
+
+ .bbb {
+    background-color: #ece8d9;
+    width: 100%;
+    height: 90px;
+    position: sticky;
+    top: 0;
+ }
+
+ @media screen and (max-width:493px) {
+  .bbb {
+    position: sticky;
+    top: 0;
+  }
+ }
+
+ .dfd {
+   background-color: #ece8d9;
+   width: 100%;
+   height: 400px;
+   margin-top: 0px;
+ }
+
+ .ter {
+    margin-left: 25px;
+    margin-top: 20px;
+ }
+
+ @media screen and (max-width:493px) {
+  .ter {
+    width: 6em;
+  }
+}
+
+ .aaa {
+    margin-left: 240px;
+    margin-top: 30px;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ @media screen and (max-width:493px) {
+  .aaa {
+    display: none;
+  }
+ }
+
+ .zzz {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 370px;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ @media screen and (max-width:493px) {
+  .zzz {
+    display: none;
+  }
+ }
+
+ .vvv {
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 540px;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ @media screen and (max-width:493px) {
+  .vvv {
+    display: none;
+  }
+ }
+
+ .beb {
+    margin-left: 660px;
+    position: absolute;
+    margin-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+ }
+
+ @media screen and (max-width:493px) {
+  .beb {
+    display: none;
+  }
+ }
+
+ .jjj {
+    position: absolute;
+    margin-left: 810px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 20px;
+ }
+
+ @media screen and (max-width:493px) {
+  .jjj {
+    margin-left: 80px;
+    margin-top: 1em;
+  }
+ }
+
+ .rrr {
+  position: absolute;
+  margin-left: 890px;
+  margin-top: 30px;
+  font-weight: bold;
+  font-size: 20px;
+ }
+
+ @media screen and (max-width:493px) {
+  .rrr {                                
+    display: none;
+  }
+}
+
+ .ooo {
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 1040px;
+ }
+
+ @media screen and (max-width:493px) {
+  .ooo {
+    margin-left: 160px;
+    margin-top: 1em;
+  }
+ }
+
+ .ttt {
+    color: #384a62;
+    font-size: 65px;
+    font-weight: bolder;
+    margin-left: 25px;
+ }
+
+ .fear {
+    margin-left: 30px;
+    color: #708095;
+    font-size: 30px;
+    font-weight: bold
+ }
+
+ @media screen and (max-width:493px) {
+  .dfd {
+   height: 420px;
+  }
+}
+
+
+ .cxc {
+    margin-left: 25px;
+    font-weight: bolder;
+ }
+
+ .vbv {
+    margin-left: 25px;
+    width: 590px;
+    height: 58px;
+    border: 1px none white;
+ }
+
+ @media screen and (max-width:493px) {
+  .vbv {
+    width: 325px;
+    height: 58px;
+    margin-left: 0.5em;
+    margin-top: 4px;
+  }
+ }
+
+ .trt {
+    margin-left: 830px;
+    margin-top: -240px;
+    width: 450px;
+    height: 300px;
+ }
+
+ @media screen and (max-width:493px) {
+  .trt {
+    display: none;
+  }
+}
+
+ .fgf {
+ margin-left: -50px;
+ cursor: pointer;
+ }
+
+ .fead {
+   background-color: palevioletred;
+   width: 100%;
+   height: 70px;
+ }
+ .lol {
+   font-weight: bold;
+   margin-left: 500px;
+ }
+
+ @media screen and (max-width:493px) {
+  .lol {
+    display: none;
+  }
+}
+
+ .mzn {
+   margin-left: 630px;
+   margin-top: -19px;
+ }
+
+ @media screen and (max-width:493px) {
+  .mzn {
+    display: none;
+  }
+}
+
+ .zxz {
+
+   display: flex;
+   flex-wrap: wrap;
+   gap: 25px;
+   margin-left: 80px;
+ }
+
+ @media screen and (max-width:493px) {
+  .zxz {
+    gap: -2em;
+  }
+}
+
+ 
+
+ .flex-item {
+   width: 250px;
+   height: 455px;
+   border: 5px solid white;
+   cursor: pointer;
+   overflow: hidden;
+ }
+
+
+
+ @media screen and (max-width:493px) {
+  .flex-item {
+    margin-left: -45px;
+  }
+}
+
+ @media screen and (max-width:493px) {
+  .flex-item {
+    width: 90%;
+    height: 450px;
+  }
+ }
+
+ .pop {
+   width: 10em;
+   transition: 0.9s;
+   height: 8em;
+
+ }
+
+ .pop:hover {
+   transform: scale(125%);
+ }
+
+ .olo {
+   font-weight: bolder;
+   font-size: 20px;
+   margin-left: 10px;
+   margin-top: 6px;
+   width: 10em;
+ }
+
+ .loo {
+   margin-left: 10px;
+ }
+ 
+ .yty {
+   font-weight: bolder;
+   font-size: 18px;
+   margin-left: 10px;
+ }
+
+ .gtb {
+   margin-left: 80px;
+   font-weight: lighter;
+   margin-top: -19px;
+ }
+
+ .klk {
+   font-size: 45px;
+   font-weight: lighter;
+   margin-left: 15px;
+ }
+
+ .class {
+   margin-left: 80%;
+   color: brown;
+   font-size: 30px;
+   margin-top: -485px;
+ }
+
+ @media screen and (max-width:493px) {
+  .class {
+    display: none;
+  }
+ }
+
+ .hhh {
+   font-size: 29px;
+   font-weight: lighter;
+   color: #708095;
+   margin-left: 40px;
+ }
+
+ @media screen and (max-width:493px)  {
+  .hhh {
+  font-size: 14px;
+  margin-left: 2em;
+  }
+ }
+
+ .uiu {
+   font: 30px;
+   font-weight: bold;
+   color: #708095;
+   margin-left: 40px;
+ }
+
+ @media screen and (max-width:493px)  {
+  .uiu {
+  font: 20px;
+  margin-left: 1em;
+  font-size: 10px;
+  width: 340px;
+  }
+  
+ }
+
+ .titi {
+   width: 100%;
+   height: 250px;
+ }
+
+ .lio {
+   margin-left: 40px;
+ }
+
+ @media screen and (max-width:493px)  {
+  .lio {
+  margin-left: 7px;
+  height: 200px;
+  width: 140px;
+  }
+  
+ }
+
+ @media screen and (max-width:493px) {
+  .lio {
+    width: 305px;
+    height: 130px;
+  }
+ }
+
+ .tdd {
+   background-color: lightblue;
+   width: 100%;
+   height: 300px;
+ }
+
+ @media screen and (max-width:493px) {
+  .tdd {
+   width: 331px;
+   height: 50em;
+  }
+ }
+
+
+ .rtr {
+   margin-top: 20px;
+   font-size: 40px;
+   position: absolute;
+   margin-left: 25px;
+ }
+
+ @media screen and (max-width:493px) {
+  .rtr {
+    margin-top: -5px;
+    font-size: 20px;
+    margin-top: 0.3em;
+    margin-left: -0em;
+  }
+ }
+
+@media screen and (max-width:493px) {
+  .mara {
+    width: 25px;
+    height: 15px;
+  }
+}
+
+ .tyre {
+   display: flex;
+   gap: 15px;
+   justify-content: center;
+ }
+
+ @media screen and (max-width:493px) {
+  .tyre {
+    column-gap: 4px;
+    width: 100%;
+    flex-wrap: wrap;
+  }
+ }
+ 
+
+ .item {
+   width: 390px;
+   height: 210px;
+   border: 1px solid wheat;
+   margin-top: 70px;
+   background-color: white;
+ }
+
+ @media screen and (max-width:493px) {
+  .item {
+    width: 290px;
+    height: 190px;
+    border: 1px solid wheat;
+    margin-top: 30px;
+    background-color: white;
+    margin-left: -1.7em;
+  }
+ }
+
+ .hjk {
+   position: absolute;
+   font-weight: bold;
+   margin-left: 25px;
+   margin-top: 20px;
+   font-size: larger;
+ }
+
+ @media screen and (max-width:493px) {
+  .hjk {
+    margin-left: -1px;
+    margin-top: -1px;
+    font-size: medium;
+    text-align: start;
+  }
+ }
+
+
+ .opp {
+   position: absolute;
+   margin-left: 25px;
+   margin-top: 65px;
+   font-size: large;
+ }
+
+ @media screen and (max-width:493px) {
+  .opp {
+    font-size: 15px;
+  }
+ }
+
+
+ .woman {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  background-color: white;
+  margin-top: 30px;
+ }
+
+ .man {
+  width: 385px;
+  height: 220px;
+  background-color: white;
+ }
+
+ .lop {
+  margin-left: 30px;
+  font-size: 30px;
+ }
+
+ @media screen and (max-width:493px) {
+  .lop {
+    font-size: 25px;
+  }
+ }
+
+ @media screen and (max-width:493px) {
+  .brake {
+    margin-top: 12em;
+    margin-left: -8em;
+  }
+ }
+
+ @media screen and (max-width:493px) {
+  .fluid {
+    margin-top: 24em;
+    margin-left: -15.5em;
+  }
+ }
+
+
+
+ .pole {
+  position: absolute;
+   margin-left: 10px;
+   margin-top: -10px;
+   font-size: 25px;
+ }
+
+ .cvb {
+  position: absolute;
+   margin-left: 25px;
+   margin-top: 95px;
+   font-size: 20px;
+ }
+
+ .amn {
+  position: absolute;
+  margin-left: 80px;
+  font-size: 20px;
+  margin-top: 10px;
+}
+
+@media screen and (max-width:490px) {
+  .amn {
+    width: 10em;
+    font-size: em;
+  }
+}
+
+.abiola {
+  margin-left: 65px;
+  margin-top: -60px;
+  font-size: 20px;
+}
+
+@media screen and (max-width:493px) {
+  .abiola {
+    margin-left: -3em;
+  }
+ }
+
+ @media screen and (max-width:493px) {
+  #sagunsa {
+ margin-left: -8.5em;
+  }
+ }
+
+
+
+.bola {
+  position: absolute;
+  margin-left: 55px;
+  font-size: 20px;
+  margin-top: 60px;
+}
+
+@media screen and (max-width:493px) {
+  .bola {
+  margin-left: -12em;
+  width: 14em;
+  }
+ }
+
+
+.ftuy {
+  position: absolute;
+  margin-top: 60px;
+  margin-left: 25px;
+  font-size: 20px;
+}
+
+@media screen and (max-width:493px) {
+  .ftuy {
+   margin-left: -5em;
+  }
+ }
+
+
+.gabriel {
+  margin-top: 50px;
+  width: 100%;
+  height: 230px;
+  background-color: wheat;
+}
+
+@media screen and (max-width:493px) {
+  .gabriel {
+   margin-top: 23em;
+   height: 25em;
+  }
+ }
+
+
+.olami {
+  color: #384a62;
+  font-size: 40px;
+  font-weight: bolder;
+  margin-left: 65px;
+}
+
+@media screen and (max-width:493px) {
+  .olami { 
+    font-size: 15px;
+    width: 300px;
+  }
+ }
+
+ @media screen and (max-width:493px) {
+  .dap { 
+    margin-top: 3em;
+  }
+ }
+
+.treasure {
+  margin-left: 65px;
+}
+
+.marvelous {
+  margin-left: 80px;
+}
+
+.heritage {
+  margin-left: 95px;
+}
+
+@media screen and (max-width:493px) {
+  .asiwaju { 
+    margin-top: 3em;
+  }
+ }
+
+.bamise {
+  margin-left: 110px;
+}
+
+.mary {
+  margin-left: 125px;
+}
+
+.janet {
+  margin-left: 1040px;
+  color: #384a62;
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  text-decoration: underline;
+}
+
+@media screen and (max-width:493px) {
+  .janet { 
+    margin-left: 1em;
+  }
+ }
+
+.patricia {
+  margin-left: 810px;
+  color: #384a62;
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  text-decoration: underline;
+}
+
+@media screen and (max-width:493px) {
+  .patricia { 
+    margin-left: 1em;
+  }
+ }
+
+ @media screen and (max-width:493px) {
+  .nnc { 
+    margin-top: 1.5em;
+  }
+ }
+
+.ewa {
+  margin-left: 570px;
+  color: #384a62;
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  text-decoration: underline;
+}
+
+@media screen and (max-width:493px) {
+  .ewa { 
+    margin-left: 1em;
+  }
+ }
+
+.tobi {
+  margin-left: 350px;
+  color: #384a62;
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  text-decoration: underline;
+}
+
+@media screen and (max-width:493px) {
+  .tobi { 
+    margin-left: 1em;
+  }
+ }
+
+.glory {
+  margin-left: 70px;
+  color: #384a62;
+  position: absolute;
+  font-weight: bold;
+  font-size: 19px;
+  text-decoration: underline;
+}
+
+@media screen and (max-width:493px) {
+  .pap { 
+    margin-top: 2em;
+  }
+ }
+
+.yola {
+  width: 100%;
+  background-color: #384a62;
+  height: 400px;
+}
+
+@media screen and (max-width:493px) {
+  .yola {
+    width: 100%;
+    background-color: #384a62;
+    height: 900px;
+  }
+}
+
+.abia {
+  margin-left: 30px;
+  margin-top: 30px;
+  position: absolute;
+  font-size: 23px;
+  color: white;
+}
+
+.oyo {
+  margin-left: 330px;
+  margin-top: 30px;
+  position: absolute;
+  color: white;
+  font-size: 23px;
+}
+
+@media screen and (max-width:493px) {
+  .oyo {
+  margin-top: 260px;
+  position:absolute ;
+  color: white;
+  font-size: 23px;
+  margin-left: 30px;
+  }
+}
+
+.ada {
+  position: absolute;
+  margin-left: 730px;
+  color: white;
+  font-size: 23px;
+  margin-top: 30px;
+}
+
+@media screen and (max-width:493px) {
+  .ada {
+  margin-top: 450px;
+  position:absolute ;
+  color: white;
+  font-size: 23px;
+  margin-left: 30px;
+  }
+}
+
+.borno {
+  position: absolute;
+  margin-left: 1050px;
+  color: white;
+  font-size: 23px;
+  margin-top: 30px;
+}
+
+@media screen and (max-width:493px) {
+  .borno {
+  margin-top: 600px;
+  position:absolute ;
+  color: white;
+  font-size: 23px;
+  margin-left: 30px;
+  }
+}
+
+.yusuf {
+    margin-left: 30px;
+    margin-top: 70px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .deola {
+    margin-left: 30px;
+    margin-top: 99px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .moses {
+    margin-left: 30px;
+    margin-top: 130px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .emma {
+    margin-left: 30px;
+    margin-top: 160px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .vir {
+    margin-left: 30px;
+    margin-top: 190px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .pelu {
+    margin-left: 30px;
+    margin-top: 220px;
+    position: absolute;
+    font-size: 20px;
+    color: white;
+  }
+
+  .genesis {
+    margin-left: 340px;
+    margin-top: 70px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+  }
+
+  @media screen and (max-width:493px) {
+    .genesis {
+    margin-top: 290px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .exodus {
+    margin-left: 340px;
+    margin-top: 99px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+  }
+
+  @media screen and (max-width:493px) {
+    .exodus {
+    margin-top: 320px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .leviticus {
+    margin-left: 340px;
+    margin-top: 130px;
+    position: absolute;
+    color: white;
+    font-size: 21px;
+  }
+
+  @media screen and (max-width:493px) {
+    .leviticus {
+    margin-top: 350px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .numbers {
+    margin-left: 340px;
+    margin-top: 160px;
+    position: absolute;
+    color: white;
+    font-size: 21px;
+  }
+
+  @media screen and (max-width:493px) {
+    .numbers {
+    margin-top: 380px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .joshua {
+    margin-left: 340px;
+    margin-top: 190px;
+    position: absolute;
+    color: white;
+    font-size: 21px;
+  }
+  
+  @media screen and (max-width:493px) {
+    .joshua {
+    margin-top: 410px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .mark {
+    position: absolute;
+    margin-left: 730px;
+    color: white;
+    font-size: 23px;
+    margin-top: 70px;
+  }
+
+  @media screen and (max-width:493px) {
+    .mark {
+    margin-top: 480px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .luke {
+    position: absolute;
+    margin-left: 730px;
+    color: white;
+    font-size: 21px;
+    margin-top: 99px;
+  }
+
+  @media screen and (max-width:493px) {
+    .luke {
+    margin-top: 510px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .john {
+    position: absolute;
+    margin-left: 730px;
+    color: white;
+    font-size: 21px;
+    margin-top: 130px;
+  }
+
+  @media screen and (max-width:493px) {
+    .john {
+    margin-top: 540px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .acts {
+    position: absolute;
+    margin-left: 730px;
+    color: white;
+    font-size: 21px;
+    margin-top: 160px;
+  }
+
+  @media screen and (max-width:493px) {
+    .acts {
+    margin-top: 570px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .cocaine {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 1050px;
+  }
+
+  @media screen and (max-width:493px) {
+    .cocaine {
+    margin-top: 630px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 30px;
+    }
+  }
+
+  .mari {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 1080px;
+  }
+
+  @media screen and (max-width:493px) {
+    .mari {
+    margin-top: 630px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 55px;
+    }
+  }
+
+  .juana {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 1119px;
+  }
+
+  @media screen and (max-width:493px) {
+    .juana {
+    margin-top: 630px;
+    position:absolute ;
+    color: white;
+    font-size: 23px;
+    margin-left: 85px;
+    }
+  }
+
+  .sedatives {
+    position: absolute;
+    margin-top: 70px;
+    margin-left: 1159px;
+  }
+
+  @media screen and (max-width:493px) {
+    .sedatives {
+    margin-top: 630px;
+    position:absolute ;
+    color: white;
+    font-size: 21px;
+    margin-left: 120px;
+    }
+  }
+
+  .lampard {
+    position: absolute;
+    margin-top: 120px;
+    margin-left: 1040px;
+    font-size: 19px;
+    color: white;
+  }
+
+  .jubril {
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 990px;
+    font-size: 19px;
+    color: white;
+  }
+
+  @media screen and (max-width:493px) {
+    .lampard {
+    margin-top: 670px;
+    position:absolute ;
+    color: white;
+    font-size: 23px;
+    margin-left: 30px;
+    }
+  }
+
+  .wura {
+    width: 230px;
+    height: 25px;
+    margin-left: 40px;
+  }
+
+  @media screen and (max-width:493px) {
+    .wura {
+    margin-top: 740px;
+    position: absolute;
+    font-size: 21px;
+    margin-left: 30px;
+    width: 100%;
+    }
+  }
+
+  .frre {
+    position: absolute;
+    margin-top: 190px;
+    margin-left: 1040px;
+    font-size: 29px;
+    color: white;
+  }
+
+  @media screen and (max-width:493px) {
+    .frre {
+    margin-top: 760px;
+    position: absolute;
+    color: white;
+    font-size: 23px;
+    margin-left: 30px;
+    }
+  }
+
+  .lawali {
+    position: absolute;
+    margin-top: 220px;
+    margin-left: 990px;
+    font-size: 19px;
+    color: white;
+  }
+
+  .okio {
+    margin-left: 50px;
+  }
+
+  @media screen and (max-width:493px) {
+    .okio {
+    margin-top: 790px;
+    position:absolute ;
+    color: white;
+    font-size: 23px;
+    margin-left: 30px;
+    }
+  }
+
+  .fcf {
+    background-color: #f7f6f4;
+    width: 100%;
+    height: 90px;
+  }
+
+  @media screen and (max-width:493px) {
+    .fcf { 
+      display: none;
+    }
+   }
+
+  .maimunat {
+    margin-left: 50%;
+  }
+
+  @media screen and (max-width:493px) {
+    .maimunat { 
+      display: none;
+    }
+   }
+  
